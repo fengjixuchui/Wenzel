@@ -2,8 +2,8 @@ name: Recent Activity
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/10 * * * *'
+    # Runs every day
+    - cron: '0 1 * * *'
 
 jobs:
   build:

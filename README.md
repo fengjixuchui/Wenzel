@@ -27,3 +27,6 @@ I have been working around Virtual Machine Introspection technologies for the pa
 ## Recent Activity
 
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

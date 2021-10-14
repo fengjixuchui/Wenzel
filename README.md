@@ -22,7 +22,46 @@ I have been working around Virtual Machine Introspection technologies for the pa
 
 ## Repositories
 
-
+<table>
+  <tbody>
+    <tr>
+        <th align="center">Repository</th>
+        <th align="center">Stars</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Wenzel/awesome-virtualization">awesome-virtualization</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/stars/Wenzel/awesome-virtualization?style=social"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/KVM-VMI/kvm-vmi">KVM-VMI</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/stars/KVM-VMI/kvm-vmi?style=social"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Wenzel/libmicrovmi">libmicrovmi</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/stars/Wenzel/libmicrovmi?style=social"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Wenzel/checksec.py">checksec.py</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/stars/Wenzel/checksec.py?style=social"/>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Presentations
 

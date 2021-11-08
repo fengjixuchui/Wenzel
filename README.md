@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/KVM-VMI/kvm-vmi/issues/127) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-2. ❗️ Opened issue [#583](https://github.com/neo4j-contrib/neomodel/issues/583) in [neo4j-contrib/neomodel](https://github.com/neo4j-contrib/neomodel)
-3. 🗣 Commented on [#645](https://github.com/jmcgeheeiv/pyfakefs/issues/645) in [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs)
-4. ❗️ Opened issue [#645](https://github.com/jmcgeheeiv/pyfakefs/issues/645) in [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs)
-5. 💪 Opened PR [#1](https://github.com/Wenzel/test_bug_pyfaefs_github_actions/pull/1) in [Wenzel/test_bug_pyfaefs_github_actions](https://github.com/Wenzel/test_bug_pyfaefs_github_actions)
+1. 🗣 Commented on [#645](https://github.com/jmcgeheeiv/pyfakefs/issues/645) in [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs)
+2. 🗣 Commented on [#645](https://github.com/jmcgeheeiv/pyfakefs/issues/645) in [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs)
+3. 🗣 Commented on [#127](https://github.com/KVM-VMI/kvm-vmi/issues/127) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. ❗️ Opened issue [#583](https://github.com/neo4j-contrib/neomodel/issues/583) in [neo4j-contrib/neomodel](https://github.com/neo4j-contrib/neomodel)
+5. 🗣 Commented on [#645](https://github.com/jmcgeheeiv/pyfakefs/issues/645) in [jmcgeheeiv/pyfakefs](https://github.com/jmcgeheeiv/pyfakefs)
 <!--END_SECTION:activity-->

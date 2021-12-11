@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/libvmi/python/issues/76) in [libvmi/python](https://github.com/libvmi/python)
-2. 🗣 Commented on [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
-3. 💪 Opened PR [#76](https://github.com/libvmi/python/pull/76) in [libvmi/python](https://github.com/libvmi/python)
-4. 🗣 Commented on [#998](https://github.com/libvmi/libvmi/issues/998) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
-5. 💪 Opened PR [#131](https://github.com/KVM-VMI/kvm-vmi/pull/131) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🗣 Commented on [#1002](https://github.com/libvmi/libvmi/issues/1002) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+2. 🗣 Commented on [#76](https://github.com/libvmi/python/issues/76) in [libvmi/python](https://github.com/libvmi/python)
+3. 🗣 Commented on [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
+4. 💪 Opened PR [#76](https://github.com/libvmi/python/pull/76) in [libvmi/python](https://github.com/libvmi/python)
+5. 🗣 Commented on [#998](https://github.com/libvmi/libvmi/issues/998) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
 <!--END_SECTION:activity-->

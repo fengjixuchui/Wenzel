@@ -76,8 +76,8 @@ I have been working around Virtual Machine Introspection technologies for the pa
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1002](https://github.com/libvmi/libvmi/issues/1002) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
-2. 🗣 Commented on [#76](https://github.com/libvmi/python/issues/76) in [libvmi/python](https://github.com/libvmi/python)
-3. 🗣 Commented on [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
-4. 💪 Opened PR [#76](https://github.com/libvmi/python/pull/76) in [libvmi/python](https://github.com/libvmi/python)
-5. 🗣 Commented on [#998](https://github.com/libvmi/libvmi/issues/998) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+2. 🗣 Commented on [#1002](https://github.com/libvmi/libvmi/issues/1002) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+3. 🗣 Commented on [#1002](https://github.com/libvmi/libvmi/issues/1002) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+4. 🗣 Commented on [#76](https://github.com/libvmi/python/issues/76) in [libvmi/python](https://github.com/libvmi/python)
+5. 🗣 Commented on [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
 <!--END_SECTION:activity-->

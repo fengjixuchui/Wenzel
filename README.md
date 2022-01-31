@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
-2. ❗️ Opened issue [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
-3. ❗️ Closed issue [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
-4. 🎉 Merged PR [#76](https://github.com/libvmi/python/pull/76) in [libvmi/python](https://github.com/libvmi/python)
-5. 🗣 Commented on [#76](https://github.com/libvmi/python/issues/76) in [libvmi/python](https://github.com/libvmi/python)
+1. ❗️ Closed issue [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
+2. 🗣 Commented on [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
+3. 🗣 Commented on [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
+4. ❗️ Opened issue [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
+5. ❗️ Closed issue [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
 <!--END_SECTION:activity-->

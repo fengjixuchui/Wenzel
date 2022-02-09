@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
-2. 🗣 Commented on [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
-3. 🗣 Commented on [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
-4. ❗️ Opened issue [#856](https://github.com/neo4j/graphql/issues/856) in [neo4j/graphql](https://github.com/neo4j/graphql)
-5. ❗️ Closed issue [#75](https://github.com/libvmi/python/issues/75) in [libvmi/python](https://github.com/libvmi/python)
+1. ❗️ Closed issue [#40](https://github.com/Wenzel/xenctrl/issues/40) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+2. 🗣 Commented on [#40](https://github.com/Wenzel/xenctrl/issues/40) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+3. 🎉 Merged PR [#42](https://github.com/Wenzel/xenctrl/pull/42) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+4. 🗣 Commented on [#42](https://github.com/Wenzel/xenctrl/issues/42) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+5. 🗣 Commented on [#42](https://github.com/Wenzel/xenctrl/issues/42) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
 <!--END_SECTION:activity-->

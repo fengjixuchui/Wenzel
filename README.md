@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1014](https://github.com/libvmi/libvmi/pull/1014) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
-2. 💪 Opened PR [#2](https://github.com/Wenzel/libvmi/pull/2) in [Wenzel/libvmi](https://github.com/Wenzel/libvmi)
-3. 🎉 Merged PR [#43](https://github.com/Wenzel/xenctrl/pull/43) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-4. ❗️ Closed issue [#40](https://github.com/Wenzel/xenctrl/issues/40) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-5. 🗣 Commented on [#40](https://github.com/Wenzel/xenctrl/issues/40) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 💪 Opened PR [#2](https://github.com/Wenzel/kAFL/pull/2) in [Wenzel/kAFL](https://github.com/Wenzel/kAFL)
+2. 🎉 Merged PR [#1](https://github.com/Wenzel/kAFL/pull/1) in [Wenzel/kAFL](https://github.com/Wenzel/kAFL)
+3. 💪 Opened PR [#1](https://github.com/Wenzel/kAFL/pull/1) in [Wenzel/kAFL](https://github.com/Wenzel/kAFL)
+4. 💪 Opened PR [#1014](https://github.com/libvmi/libvmi/pull/1014) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+5. 💪 Opened PR [#2](https://github.com/Wenzel/libvmi/pull/2) in [Wenzel/libvmi](https://github.com/Wenzel/libvmi)
 <!--END_SECTION:activity-->

@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1017](https://github.com/libvmi/libvmi/issues/1017) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
-2. 🎉 Merged PR [#8](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/8) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
-3. 🎉 Merged PR [#4](https://github.com/Wenzel/ccc-linux-guest-hardening-docs/pull/4) in [Wenzel/ccc-linux-guest-hardening-docs](https://github.com/Wenzel/ccc-linux-guest-hardening-docs)
-4. 💪 Opened PR [#4](https://github.com/Wenzel/ccc-linux-guest-hardening-docs/pull/4) in [Wenzel/ccc-linux-guest-hardening-docs](https://github.com/Wenzel/ccc-linux-guest-hardening-docs)
-5. 🎉 Merged PR [#3](https://github.com/Wenzel/ccc-linux-guest-hardening-docs/pull/3) in [Wenzel/ccc-linux-guest-hardening-docs](https://github.com/Wenzel/ccc-linux-guest-hardening-docs)
+1. 🗣 Commented on [#13](https://github.com/intel/ccc-linux-guest-hardening-docs/issues/13) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
+2. ❌ Closed PR [#13](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/13) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
+3. 💪 Opened PR [#14](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/14) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
+4. 💪 Opened PR [#13](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/13) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
+5. 🗣 Commented on [#1017](https://github.com/libvmi/libvmi/issues/1017) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
 <!--END_SECTION:activity-->

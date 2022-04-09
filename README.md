@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/intel/ccc-linux-guest-hardening-docs/issues/13) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
-2. ❌ Closed PR [#13](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/13) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
-3. 💪 Opened PR [#14](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/14) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
-4. 💪 Opened PR [#13](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/13) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
-5. 🗣 Commented on [#1017](https://github.com/libvmi/libvmi/issues/1017) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+1. ❗️ Closed issue [#79](https://github.com/libvmi/python/issues/79) in [libvmi/python](https://github.com/libvmi/python)
+2. 🗣 Commented on [#78](https://github.com/libvmi/python/issues/78) in [libvmi/python](https://github.com/libvmi/python)
+3. 💪 Opened PR [#82](https://github.com/libvmi/python/pull/82) in [libvmi/python](https://github.com/libvmi/python)
+4. 🎉 Merged PR [#81](https://github.com/libvmi/python/pull/81) in [libvmi/python](https://github.com/libvmi/python)
+5. 🗣 Commented on [#81](https://github.com/libvmi/python/issues/81) in [libvmi/python](https://github.com/libvmi/python)
 <!--END_SECTION:activity-->

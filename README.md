@@ -14,7 +14,7 @@
   </a>
 </p>
 
-I work at [ANSSI](https://www.ssi.gouv.fr/en/), the French National Cybersecurity Agency 🇫🇷🛡️
+I work for [Intel](https://www.intel.fr/content/www/fr/fr/homepage.html) since Jan 2022.
 
 I'm interested by virtualization topics applied to security research.
 
@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/6) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
-2. 🗣 Commented on [#113](https://github.com/Wenzel/checksec.py/issues/113) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 💪 Opened PR [#2](https://github.com/Wenzel/kAFL/pull/2) in [Wenzel/kAFL](https://github.com/Wenzel/kAFL)
-4. 🎉 Merged PR [#1](https://github.com/Wenzel/kAFL/pull/1) in [Wenzel/kAFL](https://github.com/Wenzel/kAFL)
-5. 💪 Opened PR [#1](https://github.com/Wenzel/kAFL/pull/1) in [Wenzel/kAFL](https://github.com/Wenzel/kAFL)
+1. ❗️ Opened issue [#6438](https://github.com/laurent22/joplin/issues/6438) in [laurent22/joplin](https://github.com/laurent22/joplin)
+2. ❌ Closed PR [#82](https://github.com/libvmi/python/pull/82) in [libvmi/python](https://github.com/libvmi/python)
+3. 💪 Opened PR [#134](https://github.com/KVM-VMI/kvm-vmi/pull/134) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. ❗️ Closed issue [#79](https://github.com/libvmi/python/issues/79) in [libvmi/python](https://github.com/libvmi/python)
+5. 🗣 Commented on [#78](https://github.com/libvmi/python/issues/78) in [libvmi/python](https://github.com/libvmi/python)
 <!--END_SECTION:activity-->

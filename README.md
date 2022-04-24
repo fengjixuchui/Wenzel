@@ -14,7 +14,7 @@
   </a>
 </p>
 
-I work at [ANSSI](https://www.ssi.gouv.fr/en/), the French National Cybersecurity Agency 🇫🇷🛡️
+I work for [Intel](https://www.intel.fr/content/www/fr/fr/homepage.html) since Jan 2022.
 
 I'm interested by virtualization topics applied to security research.
 
